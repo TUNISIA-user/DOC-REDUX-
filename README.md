@@ -1,6 +1,6 @@
 # DOC-REDUX-
 this map.  how learn redux  and more inforamtion 🔥
-# exmple reducer function √
+# exmple reducer function √ 
 
 const Data= {
   
