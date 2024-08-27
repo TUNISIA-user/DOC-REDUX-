@@ -1,5 +1,5 @@
 # DOC-REDUX-
-this map.  how learn redux  and some info🔥🇹🇳
+this map.  how learn redux  and more inforamtion 🔥
 # exmple reducer function √
 
 const Data= {
